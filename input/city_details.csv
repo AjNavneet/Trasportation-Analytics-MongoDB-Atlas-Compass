@@ -1,0 +1,50 @@
+city_id,name,lat,lon
+1,Alabama,42.998,-78.185
+2,Alaska,16.559,-93.973
+3,Arizona,15.633,-87.317
+4,Arkansas City,37.062,-97.038
+5,California City,35.126,-117.985
+6,Colorado Springs,38.834,-104.821
+7,Stamford,41.053,-73.539
+8,Delaware,40.299,-83.068
+9,Floridablanca,7.065,-73.09
+10,Tbilisi,41.725,44.791
+11,Hawaiian Gardens,33.831,-118.072
+12,Idaho Falls,43.467,-112.033
+13,Illinois City,41.381,-90.897
+14,Indianapolis,39.768,-86.158
+15,Iowa City,41.661,-91.53
+16,Kansas City,39.1,-94.578
+17,Kentucky,-28.233,19.4
+18,Louisiana,39.441,-91.055
+19,Maine-Soroa,13.218,12.027
+20,Maryland Heights,38.713,-90.43
+21,Worcester,42.263,-71.803
+22,Michigan City,41.708,-86.895
+23,Minnesota City,44.088,-91.744
+24,Mississippi State,33.458,-88.786
+25,Missouri City,29.618,-95.538
+26,Montana,43.413,23.225
+27,Nebraska City,40.675,-95.862
+28,Nevada,40.813,-83.141
+29,New Hampshire,40.558,-83.954
+30,Jersey City,40.728,-74.078
+31,New Mexico,-30.733,150.6
+32,New York,40.714,-74.006
+33,Carolina,-26.067,30.117
+34,Dakota,42.405,-89.549
+35,Ohio,41.603,-89.453
+36,Oklahoma City,35.468,-97.516
+37,Oregon City,45.358,-122.606
+38,Pennsylvania Furnace,40.726,-77.946
+39,Island Park,41.623,-71.228
+40,South Dakota Park,45.418,-96.701
+41,Tennessee,40.425,-90.799
+42,Texas City,29.384,-94.903
+43,Utah Pur,34.099,67.671
+44,Vermont,40.295,-90.431
+45,Virginia Beach,36.853,-75.978
+46,Washington,38.895,-77.037
+47,West Virginia Central Junction,39.471,-79.061
+48,Wisconsin Rapids,44.384,-89.817
+49,Wyoming,42.913,-85.705
